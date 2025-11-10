@@ -1,24 +1,5 @@
+RETO 6:
+<img width="1900" height="654" alt="image" src="https://github.com/user-attachments/assets/6e05c268-9f5d-4e3e-98fa-67a2ce37ac8c" />
 
-> Obre aquesta pàgina a [https://raimonizard.github.io/microbit-template-repo-python/](https://raimonizard.github.io/microbit-template-repo-python/)
-
-## Utilitza-ho com a extensió
-
-Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
-
-* obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a **Projecte nou**
-* fes clic a **Extensions** sota el menú de la roda dentada
-* cercar **https://github.com/raimonizard/microbit-template-repo-python** i importar
-
-## Edita aquest projecte
-
-Per editar aquest repositori a MakeCode.
-
-* obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a ** Importa** i després a ** Importa URL**
-* enganxa **https://github.com/raimonizard/microbit-template-repo-python** i clica importar
-
-#### Metadades (utilitzades per a la cerca, renderització)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+RETO 7:
+<img width="1760" height="651" alt="image" src="https://github.com/user-attachments/assets/74e89518-a206-4abf-96bf-e3a1cfafa369" />
